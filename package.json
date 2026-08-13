@@ -1,0 +1,9 @@
+{
+  "name": "ac-authcore",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.8",
+    "@biomejs/cli-win32-x64": "2.5.8",
+    "typescript": "^7.0.2"
+  }
+}
