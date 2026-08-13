@@ -1,4 +1,11 @@
 {
   "name": "@ac-authcore/api",
-  "private": true
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.ts"
+  },
+  "dependencies": {
+    "fastify": "^5.11.3"
+  }
 }

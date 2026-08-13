@@ -1,6 +1,9 @@
 {
   "name": "ac-authcore",
   "private": true,
+  "engines": {
+    "node": ">=24 <25"
+  },
   "devDependencies": {
     "@biomejs/biome": "^2.5.8",
     "@biomejs/cli-win32-x64": "2.5.8",
